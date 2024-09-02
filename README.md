@@ -1,6 +1,6 @@
 
 
-  <h3 align="center">Link Up Live - Video Conferencing Website</h3>
+  <h1 align="center">Link Up Live - Video Conferencing Website</h1>
 
   
 
