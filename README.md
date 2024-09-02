@@ -2,7 +2,7 @@
 
   <h1 align="center">Link Up Live - Video Conferencing Website</h1>
 
-  
+  <h4>You can check out the live version of my project <a href="https://22-cb-006-link-up-live-video-conferencing-website.vercel.app" target="_blank">here</a></h4>
 
 
 ## <a name="introduction">🤖 Introduction</a>
